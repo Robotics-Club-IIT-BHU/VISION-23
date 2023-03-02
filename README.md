@@ -85,6 +85,8 @@ Here are some resources to help you get started:
 
 [Pybullet Quick Starter Guide](https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914/view)
 
+[PID](https://youtu.be/wkfEZmsQqiA)
+
 Good luck, and have fun! If you have any questions, feel free to approach your mentors.
 
 
