@@ -29,14 +29,23 @@ Your Enthusiasm!!!!
 ## Getting Started
 To get started, follow the steps below:
 
-Clone the repository to your local machine.
-` git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git `
+* Clone the repository to your local machine.
 
-Familiarise yourself with the competition guidelines and requirements.
+    ```
+    git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git 
+    ```
+    
+* Change your current directory to the env's root.
 
-Program your robot to detect the humanoid using computer vision.
-Test your robot in a Pybullet environment.
-Submit your code.
+    ```
+    cd VISION-23-main/vision_v0_env/
+    ```
+
+* Familiarise yourself with the competition guidelines and requirements.
+
+* Program your robot to detect the humanoid using computer vision.
+* Test your robot in a Pybullet environment.
+* Submit your code.
 
 
 
