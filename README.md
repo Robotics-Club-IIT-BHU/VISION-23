@@ -14,7 +14,8 @@ The vision aspect of the competition focuses on developing a robot's ability to 
 This repository holds the official arena for the event which will be used for evaluation of the submissions by the participants. 
 
 The complete problem statement can be found below :
-#PS LINK
+
+[vision final.pdf](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10874936/vision.final.pdf)
 
 Complete the solution code to detect the target and navigate to the goal, making use of Pybullet simulation and computer vision.
 
