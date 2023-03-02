@@ -40,6 +40,11 @@ To get started, follow the steps below:
     ```
     cd VISION-23-main/vision_v0_env/
     ```
+* Install environment using command.
+    
+    ```
+    pip install -e .
+    ```
 
 * Familiarise yourself with the competition guidelines and requirements.
 
