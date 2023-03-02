@@ -47,6 +47,14 @@ You are encouraged to use open-source libraries for computer vision and robotics
 
 The judges will evaluate the participants based on the functionality of their robot, the quality of their code.
 
+### PS1
+
+![image](https://user-images.githubusercontent.com/120899038/222521092-06c19a35-cc62-4a57-a7a5-9c2c6dc64766.png)
+
+### PS2
+
+![image](https://user-images.githubusercontent.com/120899038/222521908-cc9b92b0-7acf-46b5-ab08-0e1c16124ecb.png)
+
 
 ## Submitting Your Project
 
