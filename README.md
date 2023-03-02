@@ -52,11 +52,15 @@ We will be floating a form link soon. Upload your code as well as the video on t
 ## Resources
 Here are some resources to help you get started:
 
-OpenCV - an open-source computer vision library.
+[OpenCV](https://docs.opencv.org/4.x/) - an open-source computer vision library.
+
+[Pybullet Workshop Presentation link](https://docs.google.com/presentation/d/1GOtJJlYNM3bD58aDP8NgCF2n8hoL5g8fXXuQwnnzkpE/edit#slide=id.g1102d05d31e_0_104)
+
+[Pybullet Quick Starter Guide](https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914/view)
 
 Good luck, and have fun! If you have any questions, feel free to approach your mentors.
 
 
 
 
-—-----—-------------------—------------------------------
+—-----—-------------------—------------------------------—-----—-------------------—---------------—-----—-------—-------------------------
