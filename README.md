@@ -34,7 +34,11 @@ To get started, follow the steps below:
     ```
     git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git 
     ```
-    
+
+
+
+#### PS1
+
 * Change your current directory to the env's root.
 
     ```
@@ -49,6 +53,27 @@ To get started, follow the steps below:
 * Familiarise yourself with the competition guidelines and requirements.
 
 * Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v0.py` file.
+* Test your robot in a Pybullet environment.
+* Submit your code.
+
+
+
+#### PS2
+
+* Change your current directory to the env's root.
+
+    ```
+    cd VISION-23-main/vision_v1_env/
+    ```
+* Install environment using command.
+    
+    ```
+    pip install -e .
+    ```
+
+* Familiarise yourself with the competition guidelines and requirements.
+
+* Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v1.py` file.
 * Test your robot in a Pybullet environment.
 * Submit your code.
 
@@ -73,7 +98,9 @@ The judges will evaluate the participants based on the functionality of their ro
 
 ## Submitting Your Project
 
-We will be floating a form link soon. Upload your code as well as the video on the form itself.
+We will be floating a form link soon. Upload your code as well as the video on the form itself. 
+
+All the submissions to be done before 6th March 2023, EOD.
 
 
 ## Resources
