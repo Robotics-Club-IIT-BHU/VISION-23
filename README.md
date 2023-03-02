@@ -1,4 +1,8 @@
 # Vision '23
+
+![robo](https://user-images.githubusercontent.com/120899038/222499315-4d8546e2-3fee-427b-be2a-ae76ddc3c088.png)
+
+
 Bienvenue freshers,
 
 Welcome to Vision-2023! Vision is an Image-Processing based Robotics Competition being organised by the Robotics Club, IIT (BHU), Varanasi to facilitate learning about different components of image processing and its application in building robots capable of autonomous movement. This repo holds the first problem statement of the event and its arena. The Arena is in the form of an OpenAI gym and runs on python libraries like Pybullet and OpenCV.
