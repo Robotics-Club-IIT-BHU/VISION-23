@@ -48,7 +48,7 @@ To get started, follow the steps below:
 
 * Familiarise yourself with the competition guidelines and requirements.
 
-* Program your robot to detect the humanoid using computer vision.
+* Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v0.py` file.
 * Test your robot in a Pybullet environment.
 * Submit your code.
 
