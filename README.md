@@ -15,12 +15,13 @@ The complete problem statement can be found below :
 Complete the solution code to detect the target and navigate to the goal, making use of Pybullet simulation and computer vision.
 
 
-## Getting Started
 
 ## Prerequisites
 
 Your Enthusiasm!!!!
 
+
+## Getting Started
 To get started, follow the steps below:
 
 Clone the repository to your local machine.
