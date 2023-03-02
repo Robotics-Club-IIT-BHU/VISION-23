@@ -24,7 +24,7 @@ Your Enthusiasm!!!!
 To get started, follow the steps below:
 
 Clone the repository to your local machine.
-> git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git
+` git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git `
 
 Familiarise yourself with the competition guidelines and requirements.
 
