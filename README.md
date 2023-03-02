@@ -26,57 +26,57 @@ Complete the solution code to detect the target and navigate to the goal, making
 Your Enthusiasm!!!!
 
 
-## Getting Started
-To get started, follow the steps below:
+## Installation Guidelines
 
 * Clone the repository to your local machine.
 
     ```
     git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git 
     ```
+* Create a new anaconda environment.
+  
+    ```
+    conda create --name vision python=3.9.7 -y
+    ```
+* Now activate your anaconda environment.
+    
+    ```
+    conda activate vision
+    ```
+* Once you activate your environment, navigate to the root folder of this repository through your terminal and execute the following command in your terminal.
 
+    ```
+    pip install -r requirements.txt
+    conda install -c conda-forge pybullet
+    ```
+    
+## Getting Started
+
+To check whether the installation has been successful, you can refer to examples folder.
+
+You can refer the file description_v0_functions.py and description_v1_functions to see the documentation for different functions used in ps1 and ps2.
 
 
 #### PS1
 
-* Change your current directory to the env's root.
-
-    ```
-    cd VISION-23-main/vision_v0_env/
-    ```
-* Install environment using command.
-    
-    ```
-    pip install -e .
-    ```
-
-* Familiarise yourself with the competition guidelines and requirements.
+* Change your current directory to the env's root/scripts.
 
 * Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v0.py` file.
-* Test your robot in a Pybullet environment.
-* Submit your code.
 
+* Test your robot in a Pybullet environment.
+
+* Submit your code.
 
 
 #### PS2
 
-* Change your current directory to the env's root.
-
-    ```
-    cd VISION-23-main/vision_v1_env/
-    ```
-* Install environment using command.
-    
-    ```
-    pip install -e .
-    ```
-
-* Familiarise yourself with the competition guidelines and requirements.
+* Change your current directory to the env's root/scripts.
 
 * Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v1.py` file.
-* Test your robot in a Pybullet environment.
-* Submit your code.
 
+* Test your robot in a Pybullet environment.
+
+* Submit your code.
 
 
 ## Competition Guidelines
