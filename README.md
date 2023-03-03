@@ -15,7 +15,8 @@ This repository holds the official arena for the event which will be used for ev
 
 The complete problem statement can be found below :
 
-[vision final.pdf](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10874936/vision.final.pdf)
+[vision final.pdf](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10881736/vision.final.pdf)
+
 
 Complete the solution code to detect the target and navigate to the goal, making use of Pybullet simulation and computer vision.
 
