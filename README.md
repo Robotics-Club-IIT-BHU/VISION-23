@@ -111,6 +111,8 @@ Here are some resources to help you get started:
 
 [Pybullet Workshop Presentation link](https://docs.google.com/presentation/d/1GOtJJlYNM3bD58aDP8NgCF2n8hoL5g8fXXuQwnnzkpE/edit#slide=id.g1102d05d31e_0_104)
 
+[Open CV Workshop Presentation Link](https://docs.google.com/presentation/d/1RwAGsYsVIkNMEP-hASJOoHOXIZ-xuMGdVxvKk8843Jw/edit#slide=id.g1a27f565b9b_0_8843)
+
 [Pybullet Quick Starter Guide](https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914/view)
 
 [PID](https://youtu.be/wkfEZmsQqiA)
