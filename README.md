@@ -113,7 +113,7 @@ Here are some resources to help you get started:
 
 [Open CV Workshop Presentation Link](https://docs.google.com/presentation/d/1RwAGsYsVIkNMEP-hASJOoHOXIZ-xuMGdVxvKk8843Jw/edit#slide=id.g1a27f565b9b_0_8843)
 
-[Opencv workshop.zip](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10891704/Opencv.workshop.zip)
+[Opencv workshop codes.zip](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10891704/Opencv.workshop.zip)
 
 
 [Pybullet Quick Starter Guide](https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914/view)
